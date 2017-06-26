@@ -10,4 +10,7 @@
     <string name="closeDrawer">Closed</string>
     <string name="feature">Features</string>
     <string name="details">Details</string>
+    <string name="cheese">Cheese</string>
+    <string name="ham">Ham</string>
+    <string name="tomatoe">Tomatoe</string>
 </resources>

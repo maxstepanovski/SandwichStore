@@ -1,18 +1,21 @@
 <resources>
-    <string name="app_name">SandwichStore</string>
-    <string name="filling">Cheddar Cheese</string>
-    <string name="filling_description">A ripe and creamy cheddar from the south west</string>
-    <string name="calories">237 kcal per slice</string>
-    <string name="action">ADD</string>
-    <string name="alternative_text">A picture of some cheddar cheese</string>
-    <string name="drama">Drama</string>
-    <string name="film">Film</string>
-    <string name="sport">Sport</string>
-    <string name="news">News</string>
-    <string name="national">National</string>
-    <string name="international">International</string>
-    <string name="openDrawer">Opened</string>
-    <string name="closeDrawer">Closed</string>
-    <string name="feature">Features</string>
-    <string name="details">Details</string>
+    <string name="app_name" translatable="false">SandwichStore</string>
+    <string name="filling" translatable="false">Cheddar Cheese</string>
+    <string name="filling_description" translatable="false">A ripe and creamy cheddar from the south west</string>
+    <string name="calories" translatable="false">237 kcal per slice</string>
+    <string name="action" translatable="false">ADD</string>
+    <string name="alternative_text" translatable="false">A picture of some cheddar cheese</string>
+    <string name="drama" translatable="false">Drama</string>
+    <string name="film" translatable="false">Film</string>
+    <string name="sport" translatable="false">Sport</string>
+    <string name="news" translatable="false">News</string>
+    <string name="national" translatable="false">National</string>
+    <string name="international" translatable="false">International</string>
+    <string name="openDrawer" translatable="false">Opened</string>
+    <string name="closeDrawer" translatable="false">Closed</string>
+    <string name="feature" translatable="false">Features</string>
+    <string name="details" translatable="false">Details</string>
+    <string name="cheese" translatable="false">Cheese</string>
+    <string name="ham" translatable="false">Ham</string>
+    <string name="tomatoe" translatable="false">Tomatoe</string>
 </resources>
