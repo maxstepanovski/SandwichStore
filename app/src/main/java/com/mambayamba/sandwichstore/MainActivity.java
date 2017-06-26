@@ -34,5 +34,17 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         recyclerView.setHasFixedSize(true);
         recyclerView.setAdapter(adapter);
+
+        TextView oldLocationText = (TextView) findViewById(R.id.old_location);
+        OldLocation oldLocation = new CustomerLocation();
+        oldLocation.setBuilding("12 str.");
+        oldLocation.setFloor(10);
+        oldLocation.setOffice("computer office");
+        oldLocation.setDesk(27);
+        oldLocationText.setText(oldLocation.toString());
+
+        TextView newLocationText = (TextView) findViewById(R.id.new_location);
+        NewLocation newLocation = new Adapter(oldLocation);
+        newLocationText.setText(newLocation.toString());
     }
 }
