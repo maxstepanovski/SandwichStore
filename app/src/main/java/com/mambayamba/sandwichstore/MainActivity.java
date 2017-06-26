@@ -46,5 +46,10 @@ public class MainActivity extends AppCompatActivity {
         TextView newLocationText = (TextView) findViewById(R.id.new_location);
         NewLocation newLocation = new Adapter(oldLocation);
         newLocationText.setText(newLocation.toString());
+
+        AbstractSandwich openSandwich = new Sandwich(new Open(), "tomato", "egg");
+        openSandwich.make();
+        AbstractSandwich closedSandwich = new Sandwich(new Closed(), "ham", "ketchup");
+        closedSandwich.make();
     }
 }
