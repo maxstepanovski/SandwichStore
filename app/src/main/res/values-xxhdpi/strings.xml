@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drama">Drama</string>
+    <string name="film">Film</string>
+    <string name="sport">Sport</string>
+    <string name="news">News</string>
+    <string name="national">National</string>
+    <string name="international">International</string>
+    <string name="openDrawer">Opened</string>
+    <string name="closeDrawer">Closed</string>
+    <string name="feature">Features</string>
+    <string name="details">Details</string>
+</resources>

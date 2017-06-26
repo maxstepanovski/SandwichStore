@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SandwichStore</string>
+    <string name="filling">Cheddar Cheese</string>
+    <string name="filling_description">A ripe and creamy cheddar from the south west</string>
+    <string name="calories">237 kcal per slice</string>
+    <string name="action">ADD</string>
+    <string name="alternative_text">A picture of some cheddar cheese</string>
+    <string name="drama">Drama</string>
+    <string name="film">Film</string>
+    <string name="sport">Sport</string>
+    <string name="news">News</string>
+    <string name="national">National</string>
+    <string name="international">International</string>
+    <string name="openDrawer">Opened</string>
+    <string name="closeDrawer">Closed</string>
+    <string name="feature">Features</string>
+    <string name="details">Details</string>
+</resources>

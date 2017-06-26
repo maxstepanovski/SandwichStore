@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_height">200dp</dimen>
+    <dimen name="card_corner_radius">4dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="activity_horizontal_margin">0dp</dimen>
+    <dimen name="activity_vertical_margin">0dp</dimen>
+    <dimen name="header_height">192dp</dimen>
+    <dimen name="item_image_width">34dp</dimen>
+    <dimen name="item_image_height">34dp</dimen>
+    <dimen name="item_image_marginLeft">16dp</dimen>
+    <dimen name="item_name_paddingLeft">72dp</dimen>
+    <dimen name="item_name_marginRight">16dp</dimen>
+    <dimen name="item_name_fontSize">16sp</dimen>
+    <dimen name="item_name_marginLeft">22dp</dimen>
+</resources>
