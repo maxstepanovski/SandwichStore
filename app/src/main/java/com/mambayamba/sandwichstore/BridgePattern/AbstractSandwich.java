@@ -1,4 +1,4 @@
-package com.mambayamba.sandwichstore;
+package com.mambayamba.sandwichstore.BridgePattern;
 
 /**
  * Created by Tom on 26.06.2017.

@@ -1,4 +1,7 @@
-package com.mambayamba.sandwichstore;
+package com.mambayamba.sandwichstore.AdapterPattern;
+
+import com.mambayamba.sandwichstore.AdapterPattern.NewLocation;
+import com.mambayamba.sandwichstore.AdapterPattern.OldLocation;
 
 /**
  * Created by макс on 26.06.2017.

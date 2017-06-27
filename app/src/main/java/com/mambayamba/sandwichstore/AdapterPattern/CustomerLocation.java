@@ -1,4 +1,4 @@
-package com.mambayamba.sandwichstore;
+package com.mambayamba.sandwichstore.AdapterPattern;
 
 /**
  * Created by макс on 26.06.2017.

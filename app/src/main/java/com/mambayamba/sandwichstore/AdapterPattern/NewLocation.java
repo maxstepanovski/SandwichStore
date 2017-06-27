@@ -1,18 +1,15 @@
-package com.mambayamba.sandwichstore;
+package com.mambayamba.sandwichstore.AdapterPattern;
 
 /**
  * Created by макс on 26.06.2017.
  */
 
-public interface OldLocation {
+public interface NewLocation {
     public String getBuilding();
     public int getFloor();
-    public String getOffice();
     public int getDesk();
 
     public void setBuilding(String building);
     public void setFloor(int floor);
-    public void setOffice(String office);
     public void setDesk(int desk);
-
 }

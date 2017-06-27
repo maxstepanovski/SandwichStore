@@ -1,4 +1,4 @@
-package com.mambayamba.sandwichstore;
+package com.mambayamba.sandwichstore.BridgePattern;
 
 import android.util.Log;
 

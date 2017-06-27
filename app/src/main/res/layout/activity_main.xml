@@ -25,6 +25,16 @@
         android:id="@+id/new_location"
         tools:text="test2"
         android:layout_margin="8dp"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/product_image"
+        android:layout_margin="8dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/criteria_pattern_test"
+        android:layout_margin="8dp"/>
 
 </LinearLayout>
 
